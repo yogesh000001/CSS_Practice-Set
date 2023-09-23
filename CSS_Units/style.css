@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    border: 2px solid black;
+    width: 50%;
+}
+.parent{
+    border: 2px solid black;
+    background: beige;
+}
+.child{
+    border: 1px solid red;
+    background: aqua;
+    width: 20%;
+}
+.container{
+    background-color: antiquewhite;
+    border: 2px solid green;
+    width: 50vw;
+    height: 100vh;
+} */
+
+/* .box1{
+    border: 1px solid black;
+    font-size: 100px;
+} */
+
+/* .container{
+    font-size: 10px;
+}
+.box{
+    font-size: 10em;
+} */
+
+.firstPara{
+    border: 2px solid brown;
+    font-size: 5rem;
+}
